@@ -5,6 +5,6 @@
 ## Run
 
 ```
-docker run -it bengbai/docker-curl-ssl curl https://www.google.com
-docker run -it bengbai/docker-curl-ssl openssl
+docker run -it pengbai/docker-curl-ssl curl https://www.google.com
+docker run -it pengbai/docker-curl-ssl openssl
 ```
